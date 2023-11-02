@@ -2,4 +2,4 @@
 
 Este é um projeto que eu fiz no curso de **HTML** e **CSS** da Alura, desenvolvendo diversas habilidades para a criação de um site.
 
-Site pronto: https://aluraplus-three-ashen.vercel.app/
+Link do projeto: https://aluraplus-three-ashen.vercel.app/
